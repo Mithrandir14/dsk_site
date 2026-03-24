@@ -1,9 +1,9 @@
 ---
 title: "Dhruv S. Kannan"
 about:
-    template: solana
+    template: jolla
     image: media/interim.jpeg
-    image-shape: round
+    image-shape: rounded
     image-width: 17em
     links:
     - icon: envelope
