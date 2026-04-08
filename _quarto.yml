@@ -12,7 +12,7 @@ website:
       - href: writings.qmd
         text: Writings
       - text: CV
-        href: media/dsk_resume.pdf
+        href: media/website_resume.pdf
   page-footer:
     right: This website is inspired by [Samantha Csik's](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank} and was built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}.
 
