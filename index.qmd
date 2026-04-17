@@ -14,6 +14,6 @@ about:
       href: https://linkedin.com/in/dhruvkannan
 ---
 
-I study political economy and quantitative methods. I also noodle with technology in my free time. 
+I study political science and economics with interests in international relations, environmental and energy politics, and economic design. I also noodle with technology and play chess (badly) in my free time. 
 
 This Quarto site is under active development. I am not normally a dog.
