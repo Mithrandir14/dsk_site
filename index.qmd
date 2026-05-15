@@ -1,9 +1,9 @@
 ---
 title: "Dhruv S. Kannan"
 about:
-    template: jolla
+    template: trestles
     image: media/new_headshot.jpg
-    image-shape: rounded
+    image-shape: round
     image-width: 19em
     links:
     - icon: envelope
