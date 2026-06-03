@@ -14,7 +14,7 @@ website:
       - text: CV
         href: media/website_resume.pdf
   page-footer:
-    right: This website is inspired by [Samantha Csik's](https://ucsb-meds.github.io/creating-quarto-websites/){target=_blank} and was built with [Quarto](https://quarto.org/){target=_blank}.
+    right: This website is inspired by [Samantha Csik's](https://ucsb-meds.github.io/creating-quarto-websites/){target=_blank} guide and was built with [Quarto](https://quarto.org/){target=_blank}.
 
 format:
   html:
